@@ -32,11 +32,11 @@ src="https://img.shields.io/github/followers/sahilkhatiwada11?logo=github&style=
 
 <b>My GitHub Stats</b>
 
-<a href="http://www.github.com/sahilkhatiwada"><img src="https://github-readme-stats.vercel.app/api?username=sahilkhatiwada11&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="sahilkhatiwada11's GitHub stats" /></a>
+<a href="http://www.github.com/sahilkhatiwada"><img src="https://github-readme-stats.vercel.app/api?username=sahilkhatiwada&show_icons=true&hide=contribs&count_private=true&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&show_icons=true" alt="sahilkhatiwada's GitHub stats" /></a>
 
-<a href="http://www.github.com/sahilkhatiwada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhatiwada11&stroke=6366f1&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
+<a href="http://www.github.com/sahilkhatiwada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkhatiwada&stroke=6366f1&background=ffffff&ring=6366f1&fire=6366f1&currStreakNum=6366f1&currStreakLabel=6366f1&sideNums=6366f1&sideLabels=6366f1&dates=6366f1&hide_border=true" /></a>
 
-<a href="https://github.com/sahilkhatiwada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhatiwada11&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/sahilkhatiwada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkhatiwada&langs_count=10&title_color=6366f1&text_color=6366f1&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 ### Support Me
 
