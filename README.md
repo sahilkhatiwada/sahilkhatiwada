@@ -14,7 +14,7 @@ I love coding!!
 * ⚡  I love pets
 
 <a href="https://www.github.com/sahilkhatiwada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/sahilkhatiwada11?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
+src="https://img.shields.io/github/followers/sahilkhatiwada?logo=github&style=for-the-badge&color=0891b2&labelColor=ffffff" /></a>
 
 ### Skills
 
