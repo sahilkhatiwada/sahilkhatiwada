@@ -8,7 +8,7 @@ I love coding!!
 
 * 🌍  I'm based in Nepal
 * ✉️  You can contact me at [Sahilkhatiwada@hotmail.com](mailto:Sahilkhatiwada@hotmail.com)
-* 🚀  I'm currently working on [E-Commerce]([(https://github.com/sahilkhatiwada/E-commerce))
+* 🚀  I'm currently working on [E-Commerce](https://github.com/sahilkhatiwada/E-commerce)
 * 🧠  I'm learning MongoDB,React.js,Node.js, and Express.js
 * 🤝  I'm open to collaborating on Future Project
 * ⚡  I love pets
