@@ -32,7 +32,7 @@ I work with the following tools to deliver top-quality web applications:
 ### **Other Tools & Libraries:**
 - **TailwindCSS**: For fast and responsive UI development.
 - **Git** & **GitHub**: Version control tools that help me collaborate with others and manage my projects.
-- **Docker**: For containerizing apps and simplifying deployment.</div>  
+ 
   
 
 <br/>  
